@@ -27,7 +27,7 @@ Since Argentina is just a few time zones different from North America and Europe
 
 ### Contact Us
 
-info@deltasrl.com
+info@deltasoftarg.com
 
 
 
