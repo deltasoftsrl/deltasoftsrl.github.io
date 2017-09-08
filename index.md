@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Delta Soft SRL
 
-You can use the [editor on GitHub](https://github.com/deltasoftsrl/deltasoftsrl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are a boutique development company revolutionizing the implementation of business and infrastructure software by leveraging unique talent, processes and culture.
+Our main concern is to deliver custom applications and provide consulting grounded in reality. We help organizations become efficient through agile practices and principles. By having an exceptional group of people, we can solve our clients' biggest and most pressing problems. All of our services are offered both on site and offshore, and are delivered with pride and passion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our services
 
-### Markdown
+We enable organizations of all sizes to be in control and ready when adopting new and existing technologies. We will work with you to ensure you make the right technology choices and achieve the best outcomes from them.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our people is dedicated to help you succeed and to exceed your aims. We not only hire the best developers in the industry, but we also actively support them in the process of becoming influencers in the community.
+With such a strong base of technology expertise, we then work with you to fully realize the business drivers for your project. While we promote Agile Practices, our consultants have considerable enterprise experience, and will easily adapt to your methodologies, processes, and toolsets.
+Whether you need a consultant for a day a month to guide your team on strategy and architecture, resources to bolster your own team, or a high-performing team, AgileSight is here to help you.
+We provide Time & Materials based Application Development offerings. Additionally we offer relevant structured services in each of our capabilities. 
 
-```markdown
-Syntax highlighted code block
+### Our people
 
-# Header 1
-## Header 2
-### Header 3
+Having a great place to work is one our main concerns. Each of us brings a unique background and perspective, but we share a core set of values that includes dedication in the art of software engineering.
+The combination of diversity and intellect in our people has created a potent cocktail of ideas, energy, innovation and achievement.
 
-- Bulleted
-- List
+We consider it part of our mission to sustain and improve Deltasoft as a place where exceptional people have an exceptional experience – one that becomes so much a part of them that it's hard for them to imagine being anywhere else.
 
-1. Numbered
-2. List
+### Outsourcing
 
-**Bold** and _Italic_ and `Code` text
+Deltasoft has its software development center in Buenos Aires, Argentina.
+Argentina has become a growing destination for off-shore and near-shore outsourcing as it has several privileges when compared to offshore outsourcing traditional countries.
+Since Argentina is just a few time zones different from North America and Europe, communication is much easier. The similarities between Latin American culture/accent and other Western cultures/accents help our team to work seamlessly with your team.
 
-[Link](url) and ![Image](src)
-```
+### Contact Us
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+info@deltasrl.com
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deltasoftsrl/deltasoftsrl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
