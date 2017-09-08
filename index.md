@@ -1,4 +1,4 @@
-## Deltasoft SRL
+### Who we are
 
 We are a boutique development company revolutionizing the implementation of business and infrastructure software by leveraging unique talent, processes and culture.
 Our main concern is to deliver custom applications and provide consulting grounded in reality. We help organizations become efficient through agile practices and principles. By having an exceptional group of people, we can solve our clients' biggest and most pressing problems. All of our services are offered both on site and offshore, and are delivered with pride and passion.
