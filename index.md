@@ -9,7 +9,7 @@ We enable organizations of all sizes to be in control and ready when adopting ne
 
 Our people is dedicated to help you succeed and to exceed your aims. We not only hire the best developers in the industry, but we also actively support them in the process of becoming influencers in the community.
 With such a strong base of technology expertise, we then work with you to fully realize the business drivers for your project. While we promote Agile Practices, our consultants have considerable enterprise experience, and will easily adapt to your methodologies, processes, and toolsets.
-Whether you need a consultant for a day a month to guide your team on strategy and architecture, resources to bolster your own team, or a high-performing team, AgileSight is here to help you.
+Whether you need a consultant for a day a month to guide your team on strategy and architecture, resources to bolster your own team, or a high-performing team, Deltasoft is here to help you.
 We provide Time & Materials based Application Development offerings. Additionally we offer relevant structured services in each of our capabilities. 
 
 ### Our people
