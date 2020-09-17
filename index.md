@@ -25,6 +25,10 @@ Deltasoft has its software development center in Buenos Aires, Argentina.
 Argentina has become a growing destination for off-shore and near-shore outsourcing as it has several privileges when compared to offshore outsourcing traditional countries.
 Since Argentina is just a few time zones different from North America and Europe, communication is much easier. The similarities between Latin American culture/accent and other Western cultures/accents help our team to work seamlessly with your team.
 
+### Our Products
+
+[Easypik] (easypik.app) is a smart dismissal solution for school districts, private schools, and daycare facilities. 
+
 ### Contact Us
 
 info@deltasoftarg.com
